@@ -10,8 +10,7 @@ for number in numbersRange {
     }
     if number % 2 == 0 {
         print("# \(number) par!!!")
-    }
-    if number % 2 != 0 {
+    } else {
         print("# \(number) impar!!!")
     }
     if case 30...40 = number {
