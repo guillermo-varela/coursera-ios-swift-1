@@ -1,10 +1,6 @@
 //
 //  ColoresStruct.swift
-//  MasFeliz
-//
-//  Created by Guillermo Varela on 8/15/16.
-//  Copyright © 2016 Guillermo Varela. All rights reserved.
-//
+//  Hamburguesas
 
 import Foundation
 import UIKit
