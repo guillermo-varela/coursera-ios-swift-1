@@ -5,6 +5,7 @@ import UIKit
 enum Velocidades : Int {
     case Apagado = 0, VelocidadBaja = 20, VelocidadMedia = 50, VelocidadAlta = 120
 
+    // Retorna el nombre de la enumeración cambiando camel case por separación con espacio y sólo la primera letra en mayúscula para coincidir con el ejemplo
     var descripcion : String {
         let string = String( self )
 
